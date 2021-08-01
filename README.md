@@ -38,12 +38,4 @@ Credit loss is the difference between all contractual cash flows that are due to
   <img src="https://www.moodysanalytics.com/-/media/web-assets/publications/risk-perspectives/edition-images/v-data-management/articles/2-4-ifrs-9-expected-loss-impairment-model/fig-2-ifrs-9-workflow.png?modified=20150515184530" alt="ifrs 9 calculation workflow"/>
 </p>
 
-From this data, the Bank can implement models on PD, LGD, and EAD, combining external data such as macroeconomic forecasts to get 12-month and lifetime expected loss forecasts (discounted at current interest rates or EIR).
-
-Then, based on exposure and counterparty characteristics, allocation between stages 1, 2, and 3 sends the final EL provision to accounting systems. An example of such a calculation process would include:
-* The interest rate of each loan is used to calculate the discount rate.
-* EAD is calculated monthly for the next 360 months, based on the amortization of the contractual balance of the loan, plus up to six months of arrear payments.
-The PD is derived from a default curve calibrated for the portfolio. The age of the loan will give the starting point on the default curve. This PD is then scaled to the loan, using the Basel point-in-time PD.
-The LGD is derived from the loan-to-value (LTV) using a lookup table. The LTV uses the value of the property covering the loan and takes into account EAD from all other loans eventually covered by this property.
-The expected loss for each of the next 360 months is the product EAD*PD*LGD divided by the discount rate.h
-The EL is then summed up for the first 12 months and for the full life of the loan. These two figures can then be used by accounting systems.
+From this data, the Bank can implement models on PD, LGD, and EAD, combining external data such as macroeconomic forecasts to get 12-month and lifetime expected loss forecasts (discounted at current interest rates or EIR). Then, based on exposure and counterparty characteristics, allocation between stages 1, 2, and 3 sends the final EL provision to accounting systems.
