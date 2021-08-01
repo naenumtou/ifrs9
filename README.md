@@ -7,4 +7,6 @@ The IFRS 9 requires recognition of impairment losses on a forward-looking basis,
 ## The general approach
 The general IFRS 9 Approach to impairment follows a three stages model (sometimes referred to as three-bucket model):
 
-![ifrs 9 three-buckets model](https://www.bankinghub.eu/wp-content/uploads/sites/2/2014/10/IFRS-9-english_2.png)
+<p align="center">
+  <img src="https://www.bankinghub.eu/wp-content/uploads/sites/2/2014/10/IFRS-9-english_2.png?s=200" alt="ifrs 9 three-buckets model"/>
+</p>
