@@ -22,6 +22,6 @@ As it can be seen that under the general approach, an entity recognises expected
 Credit loss is the difference between all contractual cash flows that are due to an entity in accordance with the contract and all the cash flows that the entity expects to receive, discounted at the original effective interest rate (EIR) or credit-adjusted EIR (IFRS 9.Appendix A).
 
 ### Model components
-PD is a probability of default model to estimate potential loss that likely to occur in given time period.
-LGD is a loss given default to calculate occured loss that the loan cannot be paid.
-EAD is a exposure at default to calculate outstanding balance of the loan having in default stage.
+* PD is a probability of default model to estimate potential loss that likely to occur in given time period.
+* LGD is a loss given default to calculate occured loss that the loan cannot be paid.
+* EAD is a exposure at default to calculate outstanding balance of the loan having in default stage.
