@@ -3,6 +3,16 @@
 ![](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
 ![](https://img.shields.io/badge/Code-Python-blue)
 
+There are three components related to the PD Model, which is contained unbias PD, forward-looking PD and lifetime PD. All components can be developed by several methodologies and it will cover in this repository.
+
 <p align="center">
   <img src="https://www.researchgate.net/profile/Md-Anisur-Rahman-3/publication/325306823/figure/fig1/AS:630898340929536@1527429294320/Cumulative-biomethane-yield-of-PD-BWS-raw-and-BWS-add-under-both-mesophilic-and.png" alt="ifr9 pd model"/>
 </p>
+
+## The view of PD Model
+
+Many risk analysts consider Basel 12-month PD model as a starting point for IFRS 9 PD model. But we need to consider factors which are important for building IFRS 9 12-month PD Model.
+
+* Point-in-time (PIT) PD : As per IFRS 9 there should be point-in-time (PIT) PD which means consideration of both current macro-economic factors and risk attributes of borrower. Idea is to incorporate current macro economic conditions while calculating PD. In essence PIT PD moves up as macro-economic conditions deteriorate and moves down as macro-economic conditions improve.
+* Best Estimate PD : PD estimates should be unbiased which means exclusion of optimism or conservatism (i.e. downturn) in estimation
+* It is required to monitor PDs on a continuous basis and perform recalibration when required. PD monitoring reports are essential.
