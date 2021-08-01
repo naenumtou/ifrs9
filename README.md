@@ -16,6 +16,9 @@ The general IFRS 9 Approach to impairment follows a three stages model (sometime
 
 As it can be seen that under the general approach, an entity recognises expected credit losses for all financial assets. The ECL can be 12-month ECL or lifetime ECL depending on whether there was a significant increase in credit risk (IFRS 9.5.5.3).
 
+1. 12-month ECLs (Stage 1): It is applied to all the loans since initial recognition as long as there is low credit risk
+2. Lifetime ECLs (Stages 2 and 3): It is applied when a significant increase in credit risk has taken place
+
 ## The Measurement of expected credit losses (ECL)
 
 ### Definition of credit losses
