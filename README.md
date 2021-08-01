@@ -10,6 +10,7 @@
 The IFRS 9 requires recognition of impairment losses on a forward-looking basis, which means that impairment loss is recognised before the occurrence of any credit event. These impairment losses are referred to as expected credit losses ('ECL').
 
 ## The general approach
+
 The general IFRS 9 Approach to impairment follows a three stages model (sometimes referred to as three-bucket model):
 
 <p align="center">
@@ -22,6 +23,7 @@ As it can be seen that under the general approach, an entity recognises expected
 2. Lifetime ECLs (Stages 2 and 3): It is applied when a significant increase in credit risk has taken place
 
 ## The Measurement of expected credit losses (ECL)
+
 ### Definition of credit losses
 Credit loss is the difference between all contractual cash flows that are due to an entity in accordance with the contract and all the cash flows that the entity expects to receive, discounted at the original effective interest rate (EIR) or credit-adjusted EIR (IFRS 9.Appendix A).
 
