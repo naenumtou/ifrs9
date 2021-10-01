@@ -1,0 +1,17 @@
+﻿Variable,Type,Sign
+FDI,Norminal,-1
+HD,Norminal,1
+GDP,Norminal,-1
+RSI,Index,-1
+CPI,Index,1
+Wage,Norminal,-1
+UR,Rate,1
+OP,Norminal,0
+Im,Norminal,-1
+Ex,Norminal,-1
+PCI,Index,-1
+CCI,Index,-1
+API,Index,-1
+PII,Index,-1
+MPI,Index,-1
+PIR,Rate,1
