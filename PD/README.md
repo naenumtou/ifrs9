@@ -32,7 +32,7 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 * N/A
 #### Multivariate analysis
 * N/A
-#### Multivariate regression analysis
+#### Multivariate regression
 * N/A
 
 ### Lifetime
