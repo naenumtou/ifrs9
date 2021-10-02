@@ -22,3 +22,9 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 9. ***averageCalibrationCT.csv***:
 10.  ***averageCalibrationScalar.csv***:
 
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
