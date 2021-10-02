@@ -18,12 +18,13 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 * It is required to monitor PDs on a continuous basis and perform recalibration when required. PD monitoring reports are essential.
 
 ## PD Models
+***(Files name)***
 ### Unbias
 * Survival Analysis Model ***(survivalAnalysis.ipynb)***
-* Fill triangle curves with Chain Ladder (chainLadder.ipynb)
-* Extrapolation curves with Gamma fitting (gammaFitting.ipynb)
-* PD Calibration with Central Tendency and PD Scalar (PDCalibration.ipynb)
-* Create PD Curves with data limitation (limitPDCurves.ipynb)
+* Fill triangle curves with Chain Ladder ***(chainLadder.ipynb)***
+* Extrapolation curves with Gamma fitting ***(gammaFitting.ipynb)***
+* PD Calibration with Central Tendency and PD Scalar ***(PDCalibration.ipynb)***
+* Create PD Curves with data limitation ***(limitPDCurves.ipynb)***
 
 ### Forward-looking
-* Credit Cycle Index for forward-looking model (cci.ipynb) 
+* Credit Cycle Index for forward-looking model ***(cci.ipynb)***
