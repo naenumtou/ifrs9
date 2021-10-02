@@ -16,3 +16,6 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 * Point-in-time (PIT) PD : As per IFRS 9 there should be point-in-time (PIT) PD which means consideration of both current macro-economic factors and risk attributes of borrower. Idea is to incorporate current macro economic conditions while calculating PD. In essence PIT PD moves up as macro-economic conditions deteriorate and moves down as macro-economic conditions improve.
 * Best Estimate PD : PD estimates should be unbiased which means exclusion of optimism or conservatism (i.e. downturn) in estimation
 * It is required to monitor PDs on a continuous basis and perform recalibration when required. PD monitoring reports are essential.
+
+## PD Models
+### Unbias
