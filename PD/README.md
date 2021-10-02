@@ -26,6 +26,7 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 * Create PD Curves with data limitation ***(limitPDCurves.ipynb)***
 
 ### Forward-looking
+#### Univariate analysis
 * Credit Cycle Index for forward-looking model ***(cci.ipynb)***
 
 ### Lifetime
