@@ -6,7 +6,7 @@
 There are three components related to the PD Model, which is contained unbias PD, forward-looking PD and lifetime PD. All components can be developed by several methodologies and it will cover in this repository.
 
 <p align="center">
-  <img src="https://www.researchgate.net/profile/Md-Anisur-Rahman-3/publication/325306823/figure/fig1/AS:630898340929536@1527429294320/Cumulative-biomethane-yield-of-PD-BWS-raw-and-BWS-add-under-both-mesophilic-and.png" alt="ifr9 pd model"/>
+  <img src="https://www.debt.org/wp-content/uploads/2012/07/Default-on-Loans.jpg" alt="ifr9 pd model"/>
 </p>
 
 ## The view of PD Model
