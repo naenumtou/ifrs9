@@ -23,4 +23,10 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 | PDCalibrationScalar.csv | The PD Curves after calibration by risk grades using scalar |
 | averageCalibrationCT.csv | The weighted average of PD Curves after calibration by segment using Central Dentency |
 | averageCalibrationScalar.csv | The weighted average of PD Curves after calibration by segment using scalar |
-
+| refPD.csv | The external reference curves from Moody's rating |
+| cci.csv | The count of observation to create transition matrix |
+| macroData.csv | The raw macroeconomics data |
+| macroSign.csv | The raw macroeconomics intuitive sign |
+| macroTransformed.csv | The transformed macroeconomics data |
+| macroSignTransformed.csv | The transformed macroeconomics sign |
+| stationaryResults.csv | The stationary results of macroeconomic variables |
