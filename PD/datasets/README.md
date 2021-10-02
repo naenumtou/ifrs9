@@ -11,8 +11,6 @@
 Dataset used for developing PD Model is monthly transaction data. It contained payment proflie of customers for the loan. In this repository is not contained all transaction file due to limitation on space. The files are only summarised level such as count of observation.
 
 ## Datasets
-1. ***PDCurves.csv***: The actual PD Curves observed from historical data of survival analysis model
-2. ***monthlyODR.csv***: The Observe Default Rate (DOR) from historical data in 12-Months performance window
 3. ***PDYear.csv***: The PD Curves with Chain Ladder development factor by years
 4. ***PDRiskGrade.csv***: The weighted average of PD Curves by risk grades
 5. ***extrapolateByRisk.csv***: The extrapolated PD Curves using Gamma fitting by risk grade
@@ -23,8 +21,8 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 10.  ***averageCalibrationScalar.csv***:
 
 
-| Command | Description |
+| File name | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| PDCurves.csv | The actual PD Curves observed from historical data of survival analysis model |
+| monthlyODR.csv | The Observe Default Rate (DOR) from historical data in 12-Months performance window |
 
