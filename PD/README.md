@@ -38,3 +38,13 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 
 ### Lifetime
 * N/A
+
+## PD Validation
+### Unbias
+* N/A
+
+### Forward-looking
+* N/A
+
+### Lifetime
+* N/A
