@@ -24,6 +24,7 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 * Extrapolation curves with Gamma fitting ***(gammaFitting.ipynb)***
 * PD Calibration with Central Tendency and PD Scalar ***(PDCalibration.ipynb)***
 * Create PD Curves with data limitation ***(limitPDCurves.ipynb)***
+* Transition matrix for unbias model ***(transitionMatrix.ipynb)***
 
 ### Forward-looking
 #### Variable
