@@ -36,7 +36,7 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 #### Multivariate analysis
 * N/A
 #### Multivariate regression
-* Test for residual normality ***(normalityTest.ipynb)***
+* Test for model residual normality ***(normalityTest.ipynb)***
 
 ### Lifetime
 * N/A
