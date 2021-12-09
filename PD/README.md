@@ -32,7 +32,7 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 * Credit Cycle Index for forward-looking model ***(cci.ipynb)***
 * Time series with stationary analysis for macroeconomics data ***(timeSeriesStationary.ipynb)***
 #### Univariate analysis
-* N/A
+* Features selection by univariate analysis ***(univariateAnalysis1.ipynb)***
 #### Multivariate analysis
 * N/A
 #### Multivariate regression
