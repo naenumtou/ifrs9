@@ -34,3 +34,4 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 | monthlyODRAging.csv | The Observe Default Rate (ODR) from historical data in 12-Months performance window by risk grade |
 | transitionMoody.csv | The transition matrix from Moody's external rating |
 | lowDefaultRating.csv | The low default portfolio's distribution |
+| ratingMatrix.csv | The count rating observation for Non-Retail portfolios |
