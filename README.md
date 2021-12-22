@@ -1,7 +1,7 @@
 # ✍🏻 IFRS 9 Impairment model 
 
-![](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
-![](https://img.shields.io/badge/Code-Python-blue)
+![Google Colab](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
+![Python](https://img.shields.io/badge/Code-Python-blue)
 
 <p align="center">
   <img src="https://www.meritglobaltraining.com/images/ifrs-9-course.jpg" alt="ifrs9 impairment model"/>
