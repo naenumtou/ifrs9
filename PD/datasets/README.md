@@ -1,8 +1,8 @@
 # 📊 The dataset used for PD Model development 
 
-![](https://img.shields.io/badge/Tools-csv-brightgreen)
-![](https://img.shields.io/badge/Tools-SQL-brightgreen)
-![](https://img.shields.io/badge/Tools-parquet-brightgreen)
+![csv](https://img.shields.io/badge/Tools-csv-brightgreen)
+![SQL](https://img.shields.io/badge/Tools-SQL-brightgreen)
+![Parquet](https://img.shields.io/badge/Tools-parquet-brightgreen)
 
 <p align="center">
   <img src="https://www.pngkey.com/png/detail/27-273710_financial-technology-financial-technology-transparent.png" alt="ifrs9 data for model"/>
