@@ -19,27 +19,27 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 
 ## PD Models
 ### Unbias
-* Survival Analysis Model ***(survivalAnalysis.ipynb)***
-* Fill triangle curves with Chain Ladder ***(chainLadder.ipynb)***
-* Extrapolation curves with Gamma fitting ***(gammaFitting.ipynb)***
-* PD Calibration with Central Tendency and PD Scalar ***(PDCalibration.ipynb)***
-* Create PD Curves with data limitation ***(limitPDCurves.ipynb)***
-* Transition matrix for unbias model ***(transitionMatrix.ipynb)***
-* Transition matrix for low default portfolios ***(externalMatrix.ipynb)***
-* Transition matrix for Non-Retail portfolios ***(NRTMatrix.ipynb)***
+* `survivalAnalysis.ipynb`: The survival analysis model is using non-parametric model to build 12-Month unbias and lifetime PD.
+* `chainLadder.ipynb`: The Filled triangle curves with Chain Ladder approach.
+* `gammaFitting.ipynb`: The extrapolation curves with Gamma fitting. This is to extend the lifetime curves for longer periods.
+* `PDCalibration.ipynb`: The PD Calibration with Central Tendency and PD Scalar. This is to carlibrate the lifetime curves for a given time (value).
+* `limitPDCurves.ipynb`: The method to overcome PD Curves with data limitation (Shorter period).
+* `transitionMatrix.ipynb`: The transition matrix model is using for 12-Month unbias and lifetime PD.
+* `externalMatrix.ipynb`: The transition matrix model for low default portfolios. This is used external rating such as Moody's rating to calibrate observed transition matrix.
+* `NRTMatrix.ipynb`: The Ttansition matrix model for Non-Retail portfolios. This is used the reference row of transition matrix to overcome unstable count observation, which is usually occurred for Non-Retail portfolios.
 
 ### Forward-looking
 #### Variable
-* Credit Cycle Index for forward-looking model ***(cci.ipynb)***
-* Time series with stationary analysis for macroeconomics data ***(timeSeriesStationary.ipynb)***
+* `cci.ipynb`: The Credit Cycle Index (CCI) for forward-looking model. This is the approach use to create reference values for transition matrix model.
+* `timeSeriesStationary.ipynb`: The time series with stationary analysis for macroeconomics data. This is not limited to only IFRS 9 Model but is applicable with other time series model.
 #### Univariate analysis
-* Features selection by univariate analysis ***(univariateAnalysis1.ipynb)***
+* `univariateAnalysis1.ipynb`: The features selection by univariate analysis version 1, which is simple and straightforward. This is also applicable to other regression problems.
 #### Multivariate analysis
 * N/A
 #### Multivariate regression
-* Test for residual normality ***(normalityTest.ipynb)***
-* Test for model heteroscedasticity ***(heteroTest.ipynb)***
-* Test for residual autocorrelation ***(autoCorrTest.ipynb)***
+* `normalityTest.ipynb`: The linear regression model assumption tested for residual normality.
+* `heteroTest.ipynb`: The linear regression model assumption tested for model heteroscedasticity.
+* `autoCorrTest.ipynb`: The linear regression model assumption tested forresidual autocorrelation.
 ### Lifetime
 * N/A
 
