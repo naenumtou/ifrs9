@@ -35,7 +35,7 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 #### Univariate analysis
 * `univariateAnalysis1.ipynb`: The features selection by univariate analysis version 1, which is simple and straightforward. This is also applicable to other regression problems.
 #### Multivariate analysis
-* N/A
+* `timeSeriesKMeans.ipynb`: The time series K-Means, applied cluster analysis with time series data.
 #### Multivariate regression
 * `normalityTest.ipynb`: The linear regression model assumption tested for residual normality.
 * `heteroTest.ipynb`: The linear regression model assumption tested for model heteroscedasticity.
