@@ -39,7 +39,8 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 #### Multivariate regression
 * `normalityTest.ipynb`: The linear regression model assumption tested for residual normality.
 * `heteroTest.ipynb`: The linear regression model assumption tested for model heteroscedasticity.
-* `autoCorrTest.ipynb`: The linear regression model assumption tested forresidual autocorrelation.
+* `autoCorrTest.ipynb`: The linear regression model assumption tested for residual autocorrelation.
+* `multicolTest.ipynb`: The linear regression model assumption tested for independence variables multicollinearity.
 ### Lifetime
 * N/A
 
