@@ -35,3 +35,5 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 | transitionMoody.csv | The transition matrix from Moody's external rating |
 | lowDefaultRating.csv | The low default portfolio's distribution |
 | ratingMatrix.csv | The count rating observation for Non-Retail portfolios |
+| APIBOTStatistic.xlsx | The API Keys for all statistic information (Macroeconomics variables) from BOT (Bank of Thailand) |
+
