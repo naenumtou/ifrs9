@@ -1,7 +1,7 @@
 # ✍🏻 Probability of Default (PD) Model 
 
-![](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
-![](https://img.shields.io/badge/Code-Python-blue)
+![Google Colab](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
+![Python](https://img.shields.io/badge/Code-Python-blue)
 
 There are three components related to the PD Model, which is contained unbias PD, forward-looking PD and lifetime PD. All components can be developed by several methodologies and it will cover in this repository.
 
