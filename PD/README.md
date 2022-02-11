@@ -31,8 +31,9 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 ### Forward-looking
 #### Variable
 * `APIBOTMacro.ipynb.ipynb`: The usage of API from BOT (Bank of Thailand) to request statistical data such as macroeconomics variables that will be used for forward-looking model.
-* `cci.ipynb`: The Credit Cycle Index (CCI) for forward-looking model. This is the approach use to create reference values for transition matrix model.
+* `cci.ipynb`: The Credit Cycle Index (CCI) for forward-looking model. This is the approach uses to create reference values both of CCI and Rho for transition matrix model.
 * `timeSeriesStationary.ipynb`: The time series with stationary analysis for macroeconomics data. This is not limited to only IFRS 9 Model but is applicable with other time series model.
+* `simplifiedCCI.ipynb`: The simplified version of Credit Cycle Index (CCI). This is the approach uses to find the optimize Rho (Only Rho) for conditional transition matrix. 
 #### Univariate analysis
 * `univariateAnalysis1.ipynb`: The features selection by univariate analysis version 1, which is simple and straightforward. This is also applicable to other regression problems.
 #### Multivariate analysis
