@@ -44,7 +44,7 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 * `autoCorrTest.ipynb`: The linear regression model assumption tested for residual autocorrelation.
 * `multicolTest.ipynb`: The linear regression model assumption tested for independence variables multicollinearity.
 ### Lifetime
-* N/A
+* `lifetimeCalibration.ipynb`: The lifetime calibration using `fsolve` scipy function to minimise to error between overall level and risk grade level.
 
 ## PD Validation
 ### Unbias
