@@ -1,21 +1,28 @@
-# ✍🏻 Probability of Default (PD) Model 
+# ✍🏻 Probability of Default (PD) Models
 
 ![Google Colab](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
-There are three components related to the PD Model, which is contained unbias PD, forward-looking PD and lifetime PD. All components can be developed by several methodologies and it will cover in this repository.
+## The IFRS 9 Requirements
+Although IFRS 9 Standard does not specifically recognize usage of PD models, meaning it does not explicitly lists requirements for PD models. Refer to the **paragraph 5.5.17** states that:
 
+"An entity shall measure expected credit losses of a financial instrument in a way that reflects:
+- an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes;
+- the time value of money; and
+- Reasonable and supportable information that is available without undue cost or effort at the reporting date about past events, current conditions and forecasts of future economic conditions."
+
+In addition, the standard requires that Expected Credit Loss (ECL) is measured using a **PIT PD** measure and it contains forward-looking (FWL) macroeconomic expectations. Therefore, in case that any considered existing models are TTC and/or contain FWL expectations, it is necessary to adjust these models to be compliant with IFRS 9 requirements.
+
+## The view of PD Models
 <p align="center">
   <img src="https://www.debt.org/wp-content/uploads/2012/07/Default-on-Loans.jpg" alt="ifr9 pd model"/>
 </p>
 
-## The view of PD Model
+There are three components related to the PD Models, which are included **unbias PD**, **forward-looking PD** and **lifetime PD**. All components can be developed by several methodologies and it will cover in this repository. Many risk analysts consider Basel 12-month PD model as a starting point for IFRS 9 PD model. However, the important factors that should be considered for building IFRS 9 PD Models are listed below:
 
-Many risk analysts consider Basel 12-month PD model as a starting point for IFRS 9 PD model. But we need to consider factors which are important for building IFRS 9 12-month PD Model.
-
-* Point-in-time (PIT) PD : As per IFRS 9 there should be point-in-time (PIT) PD which means consideration of both current macro-economic factors and risk attributes of borrower. Idea is to incorporate current macro economic conditions while calculating PD. In essence PIT PD moves up as macro-economic conditions deteriorate and moves down as macro-economic conditions improve.
-* Best Estimate PD : PD estimates should be unbiased which means exclusion of optimism or conservatism (i.e. downturn) in estimation
-* It is required to monitor PDs on a continuous basis and perform recalibration when required. PD monitoring reports are essential.
+* **Point-in-time (PIT) PD**: As per IFRS 9 there should be the point-in-time (PIT) PD, which means consideration of both current macroeconomics factors and risk attributes of borrower. The idea is to incorporate current macroeconomics conditions while calculating the PD. In essence PIT PD moves up as macro-economic conditions deteriorate and moves down as macroeconomics conditions improve.
+* **Best Estimate PD**: The PD estimates should be unbiased which means exclusion of optimism or conservatism _(i.e. downturn)_ in the estimation.
+* **Monitoring**: It is required to monitor PD Models on a continuous basis and perform recalibration when necessary required. The PD monitoring reports are essential.
 
 ## PD Models
 ### Unbias
@@ -26,7 +33,7 @@ Many risk analysts consider Basel 12-month PD model as a starting point for IFRS
 * `limitPDCurves.ipynb`: The method to overcome PD Curves with data limitation (Shorter period).
 * `transitionMatrix.ipynb`: The transition matrix model is using for 12-Month unbias and lifetime PD.
 * `externalMatrix.ipynb`: The transition matrix model for low default portfolios. This is used external rating such as Moody's rating to calibrate observed transition matrix.
-* `NRTMatrix.ipynb`: The Ttansition matrix model for Non-Retail portfolios. This is used the reference row of transition matrix to overcome unstable count observation, which is usually occurred for Non-Retail portfolios.
+* `NRTMatrix.ipynb`: The tansition matrix model for Non-Retail portfolios. This is used the reference row of transition matrix to overcome unstable count observation, which is usually occurred for Non-Retail portfolios.
 
 ### Forward-looking
 #### Variable
