@@ -3,6 +3,10 @@
 ![Google Colab](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
+<p align="center">
+  <img src="https://www.debt.org/wp-content/uploads/2012/07/Default-on-Loans.jpg" alt="ifr9 pd model"/>
+</p>
+
 ## The IFRS 9 Requirements
 Although IFRS 9 Standard does not specifically recognize usage of PD models, meaning it does not explicitly lists requirements for PD models. Refer to the **paragraph 5.5.17** states that:
 
@@ -14,10 +18,6 @@ Although IFRS 9 Standard does not specifically recognize usage of PD models, mea
 In addition, the standard requires that Expected Credit Loss (ECL) is measured using a **PIT PD** measure and it contains forward-looking (FWL) macroeconomic expectations. Therefore, in case that any considered existing models are TTC and/or contain FWL expectations, it is necessary to adjust these models to be compliant with IFRS 9 requirements.
 
 ## The view of PD Models
-<p align="center">
-  <img src="https://www.debt.org/wp-content/uploads/2012/07/Default-on-Loans.jpg" alt="ifr9 pd model"/>
-</p>
-
 There are three components related to the PD Models, which are included **unbias PD**, **forward-looking PD** and **lifetime PD**. All components can be developed by several methodologies and it will cover in this repository. Many risk analysts consider Basel 12-month PD model as a starting point for IFRS 9 PD model. However, the important factors that should be considered for building IFRS 9 PD Models are listed below:
 
 * **Point-in-time (PIT) PD**: As per IFRS 9 there should be the point-in-time (PIT) PD, which means consideration of both current macroeconomics factors and risk attributes of borrower. The idea is to incorporate current macroeconomics conditions while calculating the PD. In essence PIT PD moves up as macro-economic conditions deteriorate and moves down as macroeconomics conditions improve.
