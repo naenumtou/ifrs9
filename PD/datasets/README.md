@@ -37,3 +37,4 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 | ratingMatrix.csv | The count rating observation for Non-Retail portfolios |
 | APIBOTStatistic.xlsx | The API Keys for all statistic information (Macroeconomics variables) from BOT (Bank of Thailand) |
 | bankNPLRatio.csv | The NPL Ratio by quarterly basis of banking and financial sectors from BOT |
+| clusterVarClusResult.csv | The result of time series clustering using `PROC VARCLUS` (SAS Programming) in python |
