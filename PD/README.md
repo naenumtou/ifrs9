@@ -34,6 +34,7 @@ There are three components related to the PD Models, which are included **unbias
 * `transitionMatrix.ipynb`: The transition matrix model is using for 12-Month unbias and lifetime PD.
 * `externalMatrix.ipynb`: The transition matrix model for low default portfolios. This is used external rating such as Moody's rating to calibrate observed transition matrix.
 * `NRTMatrix.ipynb`: The transition matrix model for Non-Retail portfolios. This is used the reference row of transition matrix to overcome unstable count observation, which is usually occurred for Non-Retail portfolios.
+* `distributionSelection.ipynb`: The lifetime curves distribution selection. The process of find the most fit curves from several statistic distribution prior the final conclusion.
 
 ### Forward-looking
 #### Variable
