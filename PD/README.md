@@ -46,6 +46,7 @@ There are three components related to the PD Models, which are included **unbias
 * `univariateAnalysis1.ipynb`: The features selection by univariate analysis version 1, which is simple and straightforward. This is also applicable to other regression problems.
 #### Multivariate analysis
 * `timeSeriesKMeans.ipynb`: The time series K-Means, applied cluster analysis with time series data.
+* `SilhouetteAnalysis.ipynb`: The Silhouette analysis to find the optimal number of clusters with K-Means.
 * `PROCVARCLUS.ipynb`: Using the `PROC VARCLUS` in SAS Programming in python to perform time series clustering. 
 #### Multivariate regression
 * `normalityTest.ipynb`: The linear regression model assumption tested for residual normality.
