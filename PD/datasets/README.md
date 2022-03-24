@@ -39,3 +39,4 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 | bankNPLRatio.csv | The NPL Ratio by quarterly basis of banking and financial sectors from BOT |
 | clusterVarClusResult.csv | The result of time series clustering using `PROC VARCLUS` (SAS Programming) in python |
 | matrixAdjustment.csv | The transition matrix adjustment with counting number of observations |
+| BOTNPLDataRaw.csv | The RAW NPL Ratio data from BOT (Bank of Thailand) |
