@@ -60,6 +60,7 @@ There are three components related to the PD Models, which are included **unbias
 ### Lifetime
 * `lifetimeCalibration.ipynb`: The lifetime calibration using `fsolve` scipy function to minimise to error between overall level and risk grade level.
 * `vasicekTransitionMatrix.ipynb`: The Vasicek model to create lifetime PD Term structure by using transition matrix and incorporating the forward-looking information by Vasicek single factor approach.
+* `vasicekBaselRho.ipynb`: The Vasicek model to create lifetime PD Term structure by using transition matrix and incorporating the forward-looking information by Vasicek single factor approach. The Basel asset correlation or rho is considered in the model rather than assuming some values. 
 
 ## PD Validation
 ### Unbias
