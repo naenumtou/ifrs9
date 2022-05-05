@@ -42,3 +42,5 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 | BOTNPLDataRaw.csv | The RAW NPL Ratio data from BOT (Bank of Thailand) |
 | cleanBOTNPLData.csv | The clean NPL Ratio data from BOT (Bank of Thailand) |
 | varClusResult.csv | The result of time series clustering using `PROC VARCLUS` (SAS Programming) in python without selection processes |
+| varClusConditionResult.csv | The result of time series clustering using `PROC VARCLUS` (SAS Programming) in python with conditional selection processes |
+
