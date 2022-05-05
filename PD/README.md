@@ -51,6 +51,7 @@ There are three components related to the PD Models, which are included **unbias
 * `SilhouetteAnalysis.ipynb`: The Silhouette analysis to find the optimal number of clusters with K-Means.
 * `PROCVARCLUS.ipynb`: Using the `PROC VARCLUS` in SAS Programming in python to perform time series clustering.
 * `allCombinations.ipynb`: Create all possible combination with variable tpyes and clustering information as the conditions.
+* `clusterSelection.ipynb`: The selection based on condition apply with unpreferable variables.
 #### Multiple linear regression
 * `normalityTest.ipynb`: The linear regression model assumption tested for residual normality.
 * `heteroTest.ipynb`: The linear regression model assumption tested for model heteroscedasticity.
