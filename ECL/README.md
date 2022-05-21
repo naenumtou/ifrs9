@@ -16,3 +16,4 @@ The International Accounting Standards Board (IASB) and other accounting standar
 * `amoritzation.sas`: The normal case amortization schedule using SAS.
 * `abAmortization.ipynb`: The unusual case amortization schedule using python. The case that schedule term, interest rate and installment are not consistency.
 * `abAmortization.sas`: The unusual case amortization schedule using SAS. The case that schedule term, interest rate and installment are not consistency.
+* `ECLLimitLevel.ipynb`: The amortization schedule of hybird loan. The loan can be converted between revolving loan and term loan.
