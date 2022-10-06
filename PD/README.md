@@ -3,9 +3,7 @@
 ![Google Colab](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
-<p align="center">
-  <img src="https://www.debt.org/wp-content/uploads/2012/07/Default-on-Loans.jpg" alt="ifr9 pd model"/>
-</p>
+![image](https://user-images.githubusercontent.com/66057952/194216972-eee7781b-c050-4a85-af12-090671b2b281.png)
 
 ## The IFRS 9 Requirements
 Although IFRS 9 Standard does not specifically recognize usage of PD models, meaning it does not explicitly lists requirements for PD models. Refer to the **paragraph 5.5.17** states that:
