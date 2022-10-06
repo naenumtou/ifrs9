@@ -2,9 +2,9 @@
 ![Google Colab](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
-<center>
-![image](https://user-images.githubusercontent.com/66057952/194217235-5c62f839-1390-44a7-b71d-82a29c53805e.png)
-</center>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66057952/194217235-5c62f839-1390-44a7-b71d-82a29c53805e.png" alt="ifrs 9"/>
+</p>
 
 The IFRS 9 requires recognition of impairment losses on a forward-looking basis, which means that impairment loss is recognised before the occurrence of any credit event. These impairment losses are referred to as Expected Credit Losses **('ECL')**.
 
