@@ -3,7 +3,9 @@
 ![Google Colab](https://img.shields.io/badge/Editor-Google%20Colab-brightgreen)
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
-![image](https://user-images.githubusercontent.com/66057952/194216972-eee7781b-c050-4a85-af12-090671b2b281.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66057952/194217736-fa868bef-1c24-4b85-bb87-898d5aa01112.png" alt="ifrs 9"/>
+</p>
 
 ## The IFRS 9 Requirements
 Although IFRS 9 Standard does not specifically recognize usage of PD models, meaning it does not explicitly lists requirements for PD models. Refer to the **paragraph 5.5.17** states that:
