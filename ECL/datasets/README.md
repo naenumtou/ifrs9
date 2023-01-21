@@ -14,3 +14,4 @@ Dataset used for developing ECL Calculation is month-end transaction data as par
 | File name | Description |
 | --- | --- |
 | ECLLimitData.csv | The sample of transaction data for ECL Calculation with limit management |
+| ECLData.csv | The sample of transaction data for ECL Calculation |
