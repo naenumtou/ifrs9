@@ -37,6 +37,7 @@ There are three components related to the PD Models, which are included **unbias
 * `distributionSelection.ipynb`: The lifetime curves distribution selection. The process of find the most fit curves from several statistic distribution prior the final conclusion.
 * `NelsonSiegelCurve.ipynb`: The fitting curve (extrapolation) of lifetime Marginal PD using Nelson-Seigel method.
 * `generatorMatrix.ipynb`: The generator matrix for transition matrix model adjustment.
+* `PDAssumedLGD.ipynb`: The leveraged PD from sufficient portfolio for insufficient portfolio by assuming 50% LGD.
 
 ### Forward-looking
 #### Variable
