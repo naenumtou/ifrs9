@@ -38,7 +38,7 @@ There are three components related to the PD Models, which are included **unbias
 * `NelsonSiegelCurve.ipynb`: The fitting curve (extrapolation) of lifetime Marginal PD using Nelson-Seigel method.
 * `generatorMatrix.ipynb`: The generator matrix for transition matrix model adjustment.
 * `PDAssumedLGD.ipynb`: The leveraged PD from sufficient portfolio for insufficient portfolio by assuming 50% LGD.
-
+* `KMVModel.ipynb`: The individual risk assessment leveraging for PD Calculation from financial statement and historical stock.
 ### Forward-looking
 #### Variable
 * `APIBOTMacro.ipynb.ipynb`: The usage of API from BOT (Bank of Thailand) to request statistical data such as macroeconomics variables that will be used for forward-looking model.
