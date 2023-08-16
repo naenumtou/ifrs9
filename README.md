@@ -33,7 +33,7 @@ The model components will be appiled together with **staging criteria**, which i
 ### The calculation workflow
 
 <p align="center">
-  <img src="https://www.moodysanalytics.com/-/media/web-assets/publications/risk-perspectives/edition-images/v-data-management/articles/2-4-ifrs-9-expected-loss-impairment-model/fig-2-ifrs-9-workflow.png?modified=20150515184530" alt="ifrs 9 calculation workflow"/>
+  <img src="https://github.com/naenumtou/ifrs9/assets/66057952/8bc9e7f5-85a2-41df-8bdf-e8bf22b787c0" alt="ifrs 9 calculation workflow"/>
 </p>
 
 From this data, the Bank can implement models on PD, LGD, and EAD, combining external data such as macroeconomic forecasts to get 12-month and lifetime expected loss forecasts _(discounted at current interest rates or EIR)_. Then, based on exposure and counterparty characteristics, allocation between stages 1, 2, and 3 sends the final EL provision to accounting systems.
