@@ -12,7 +12,7 @@ The IFRS 9 requires recognition of impairment losses on a forward-looking basis,
 The general IFRS 9 Approach to impairment follows a three stages model _(sometimes referred to three-bucket model)_:
 
 <p align="center">
-  <img src="https://www.bankinghub.eu/wp-content/uploads/sites/2/2014/10/IFRS-9-english_2.png" alt="ifrs 9 three-buckets model"/>
+  <img src="https://github.com/naenumtou/ifrs9/assets/66057952/97a52b90-ea60-4067-bb3d-7c9c389f3160" alt="ifrs 9 three-buckets model"/>
 </p>
 
 As it can be seen that under the general approach, an entity recognises expected credit losses for all financial assets. The ECL can be 12-month ECL or lifetime ECL depending on whether there was a significant increase in credit risk _(IFRS 9.5.5.3)_.
