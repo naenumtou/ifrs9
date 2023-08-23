@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66057952/194217736-fa868bef-1c24-4b85-bb87-898d5aa01112.png" alt="ifrs 9"/>
+  <img src="https://github.com/naenumtou/ifrs9/assets/66057952/31a7c622-9379-488e-a639-c2b78074b3bb" alt="ifrs 9 PD Model"/>
 </p>
 
 ## The IFRS 9 Requirements
