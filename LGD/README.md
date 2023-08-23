@@ -24,7 +24,7 @@ There are three components related to the LGD Models, which are included **unbia
 
 ## LGD Models
 ### Unbias
-* `LGDFunctionModel.ipynb`: -soon-
+* `LGDFunctionModel.ipynb`: The unbias LGD Model developed using function of EIR(s).
 
 ### Forward-looking
 * N/A
