@@ -48,3 +48,5 @@ Dataset used for developing PD Model is monthly transaction data. It contained p
 | FIN.DATA.csv | The financial statement data for KMV Model |
 | PRICE.DATA.csv | The historical stock price data for KMV Model |
 | CorporateODR.csv | The monthly historical ODR of corporate portfolio for PD Simulation |
+| SmoothingRawMatrix.csv | The count observation for smoothing migration matrix |
+
