@@ -25,7 +25,7 @@ Credit loss is the difference between all contractual cash flows that are due to
 
 ### Model components
 * **PD** is a probability of default model to estimate potential loss that likely to occur in given time period.
-* **LGD** is a loss given default to calculate occured loss that the loan cannot be paid.
+* **LGD** is a loss given default to calculate occurred loss that the loan cannot be paid.
 * **EAD** is a exposure at default to calculate outstanding balance of the loan having in default stage.
 
 The model components will be appiled together with **staging criteria**, which is allowed ECL Calculation of different risk segmentation. This is to be more accuracy for the Bank's provisioning processes.
